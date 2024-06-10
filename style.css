@@ -69,10 +69,10 @@
   
   .cover {
     position: absolute;
-    border-left: 300px solid transparent;
-    border-right: 300px solid transparent;
-    border-top: 150px solid #fe3334;
-    border-bottom: 150px solid transparent;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-top: 100px solid #fe3334;
+    border-bottom: 100px solid transparent;
   
     /*  */
     transition: transform .75s;
@@ -87,17 +87,17 @@
     /*  */
     z-index: -1;
     background: white;
-    width: 590px;
+    width: 390px;
     height: 280px;
   
     transition: all .75s;
   }
   
   .letter {
-    border-left: 300px solid #ff989e;
-    border-right: 300px solid #ff989e;
-    border-top: 150px solid transparent;
-    border-bottom: 150px solid #ff858a;
+    border-left: 200px solid #ff989e;
+    border-right: 200px solid #ff989e;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid #ff858a;
   }
   
   .options {
@@ -157,7 +157,7 @@
     top: 25%;
     left: 46.5%;
     margin: auto;
-    font-size: 10rem;
+    font-size: 4rem;
   
     color: #fe3334;
   
